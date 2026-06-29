@@ -1,7 +1,8 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        std::unordered_set numset(nums.begin(),nums.end());
+        unordered_set
+         numset(nums.begin(),nums.end());
         int longeststreak=0;
         for(int i:numset){
             if(numset.find(i-1)==numset.end()){
