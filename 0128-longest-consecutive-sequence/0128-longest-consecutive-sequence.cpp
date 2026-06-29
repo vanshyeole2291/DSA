@@ -13,7 +13,7 @@ public:
                 currentstreak+=1;
                 
             }
-            longeststreak=max(longeststreak,currentstreak);
+            longeststreak=std::max(longeststreak,currentstreak);
         }   
     }
     return longeststreak;
