@@ -10,11 +10,11 @@ public:
         if (n == 0) return 0.0;
 
         if (n % 2 == 0) {
- 
-            return (double)(temp[n / 2 - 1] + temp[n / 2]) / 2.0;
+            return (double) (temp[n/2-1]+temp[n/2])/2.0;
+            
         } else {
             
-            return (double)temp[n / 2];
+            return (double) (temp[n/2]);
         }
     }
 };
