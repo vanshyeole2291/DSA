@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vanshyeole2291/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/vanshyeole2291/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vanshyeole2291/DSA/tree/master/0169-majority-element) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Dynamic Programming
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
