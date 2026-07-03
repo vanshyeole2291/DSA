@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vanshyeole2291/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshyeole2291/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vanshyeole2291/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshyeole2291/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vanshyeole2291/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
