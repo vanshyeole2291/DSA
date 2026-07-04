@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanshyeole2291/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/vanshyeole2291/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vanshyeole2291/DSA/tree/master/0238-product-of-array-except-self) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vanshyeole2291/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/vanshyeole2291/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vanshyeole2291/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vanshyeole2291/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshyeole2291/DSA/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
