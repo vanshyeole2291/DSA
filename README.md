@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3110-score-of-a-string](https://github.com/vanshyeole2291/DSA/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
