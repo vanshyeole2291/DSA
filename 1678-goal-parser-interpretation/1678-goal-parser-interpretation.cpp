@@ -1,0 +1,20 @@
+class Solution {
+public:
+    string interpret(string command) {
+        string s="";
+        for(int i=0;i<command.length();i++){
+            if(command[i]=='('){
+                if(command[i+1]==')'){
+                    s+='o';
+                }else{
+                    continue;
+                }
+            }else if(command[i]==')'){
+                continue;
+            }else{
+                s+=command[i];
+            }
+        }
+        return s;
+    }
+};
