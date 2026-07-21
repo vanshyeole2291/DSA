@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanshyeole2291/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vanshyeole2291/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vanshyeole2291/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vanshyeole2291/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vanshyeole2291/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vanshyeole2291/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vanshyeole2291/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/vanshyeole2291/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshyeole2291/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanshyeole2291/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vanshyeole2291/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/vanshyeole2291/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanshyeole2291/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshyeole2291/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vanshyeole2291/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vanshyeole2291/DSA/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vanshyeole2291/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanshyeole2291/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshyeole2291/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vanshyeole2291/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vanshyeole2291/DSA/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vanshyeole2291/DSA/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshyeole2291/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
