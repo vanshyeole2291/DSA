@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vanshyeole2291/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vanshyeole2291/DSA/tree/master/1051-height-checker) |
+| [3536-maximum-product-of-two-digits](https://github.com/vanshyeole2291/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/vanshyeole2291/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/vanshyeole2291/DSA/tree/master/2469-convert-the-temperature) |
+| [3536-maximum-product-of-two-digits](https://github.com/vanshyeole2291/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanshyeole2291/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
