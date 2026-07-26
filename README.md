@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vanshyeole2291/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/vanshyeole2291/DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/vanshyeole2291/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshyeole2291/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/vanshyeole2291/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/vanshyeole2291/DSA/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/vanshyeole2291/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/vanshyeole2291/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1678-goal-parser-interpretation](https://github.com/vanshyeole2291/DSA/tree/master/1678-goal-parser-interpretation) |
