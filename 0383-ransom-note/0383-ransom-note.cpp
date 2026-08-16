@@ -5,12 +5,13 @@ public:
        for(char ch : magazine){
         m[ch]++;
        }
-       for(char ch : ransomNote){
+       for(char ch : ransomNote ){
         m[ch]--;
         if(m[ch]<0){
             return false;
         }
        }
-       return true;
+        return true;
     }
+
 };
