@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vanshyeole2291/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshyeole2291/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
