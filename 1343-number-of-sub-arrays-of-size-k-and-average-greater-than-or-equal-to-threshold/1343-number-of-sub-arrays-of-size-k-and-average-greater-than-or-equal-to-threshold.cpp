@@ -8,13 +8,12 @@ public:
             if(j-i+1<k){
                 j++;
             }else if(j-i+1==k){
-                avg=sum/k;
-                if(avg>=threshold){
+                
+                if(sum>=k*threshold){
                     ans++;
                 }
                 sum-=arr[i];
                 i++;j++;
-                avg=0;
             }
         }
         return ans;
