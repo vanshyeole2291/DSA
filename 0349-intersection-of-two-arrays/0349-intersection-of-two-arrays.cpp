@@ -5,7 +5,7 @@ public:
        unordered_set<int> s2(nums2.begin(),nums2.end());
 
        vector<int> temp;
-       for(int i : s2){
+       for(int i:s2){
         if(s1.count(i)){
             temp.push_back(i);
         }
