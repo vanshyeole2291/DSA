@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vanshyeole2291/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vanshyeole2291/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3110-score-of-a-string](https://github.com/vanshyeole2291/DSA/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/vanshyeole2291/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vanshyeole2291/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vanshyeole2291/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
