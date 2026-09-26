@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vanshyeole2291/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanshyeole2291/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshyeole2291/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshyeole2291/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/vanshyeole2291/DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/vanshyeole2291/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshyeole2291/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshyeole2291/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vanshyeole2291/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshyeole2291/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshyeole2291/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vanshyeole2291/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/vanshyeole2291/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/vanshyeole2291/DSA/tree/master/0709-to-lower-case) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vanshyeole2291/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshyeole2291/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/vanshyeole2291/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vanshyeole2291/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
