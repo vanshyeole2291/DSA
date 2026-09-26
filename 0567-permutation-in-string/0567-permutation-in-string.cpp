@@ -1,32 +1,24 @@
 class Solution {
 public:
-    bool same(int f[],int f1[]){
-        for(int i=0;i<26;i++){
-            if(f[i]!=f1[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     bool checkInclusion(string s1, string s2) {
-        int freq[26]={0};
-
-        for(int i=0;i<s1.length();i++){
-            freq[s1[i]-'a']++;
+        int i=0,j=0,k=s1.size();
+        vector<int> f1(26,0);
+        vector<int> f2(26,0);
+        for(int i=0;i<k;i++){
+            f1[s1[i]-'a']++;
         }
 
-        int wsize=s1.length();
-
-        for(int i=0;i<s2.length();i++){
-            int widx =0,idx=i;
-            int wfreq[26]={0};
-
-            while(widx<wsize && idx<s2.length()){
-                wfreq[s2[idx]-'a']++;
-                widx++;idx++;
-            }
-            if(same(freq,wfreq)){
-                return true;
+        while(j<s2.size()){
+            f2[s2[j]-'a']++;
+            if(j-i+1<k){
+                j++;
+            }else if(j-i+1==k){
+                if(f1==f2){
+                    return true;
+                }
+                f2[s2[i]-'a']--;
+                i++;
+                j++;
             }
         }
         return false;
