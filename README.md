@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vanshyeole2291/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshyeole2291/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshyeole2291/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshyeole2291/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshyeole2291/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshyeole2291/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/vanshyeole2291/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vanshyeole2291/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vanshyeole2291/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshyeole2291/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/vanshyeole2291/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vanshyeole2291/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vanshyeole2291/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
