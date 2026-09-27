@@ -1,17 +1,13 @@
 class Solution {
 public:
     int maxConsecutiveAnswers(string answerKey, int k) {
-        int i=0,j=0,ans=0,f=0,t=0;
+        int i=0,j=0,ans=0,f=0;
         while(j<answerKey.size()){
-            if(answerKey[j]=='T'){
-                t++;
-            }else{
+            if(answerKey[j]=='F'){
                 f++;
             }
-            while(min(t,f)>k){
-                if(answerKey[i]=='T'){
-                    t--;
-                }else{
+            while(min(f,(j-i+1)-f)>k){
+                if(answerKey[i]=='F'){
                     f--;
                 }
                 i++;
