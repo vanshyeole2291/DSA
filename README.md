@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vanshyeole2291/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshyeole2291/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/vanshyeole2291/DSA/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshyeole2291/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshyeole2291/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vanshyeole2291/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vanshyeole2291/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vanshyeole2291/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshyeole2291/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/vanshyeole2291/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanshyeole2291/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshyeole2291/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vanshyeole2291/DSA/tree/master/0567-permutation-in-string) |
