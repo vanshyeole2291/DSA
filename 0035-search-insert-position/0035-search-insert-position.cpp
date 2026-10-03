@@ -7,12 +7,12 @@ public:
             m = (s+e)/2;
             if(nums[m]==target){
                 return m;
-                s++;
-                e--;
+                s=m+1;
+                e=m-1;
             }else if(nums[m]<target){
-                s++;
+                s=m+1;
             }else {
-                e--;
+                e=m-1;
             }
         }
         return s;
