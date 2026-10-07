@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vanshyeole2291/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshyeole2291/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vanshyeole2291/DSA/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vanshyeole2291/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/vanshyeole2291/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshyeole2291/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshyeole2291/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/vanshyeole2291/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/vanshyeole2291/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vanshyeole2291/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vanshyeole2291/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshyeole2291/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
