@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vanshyeole2291/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vanshyeole2291/DSA/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/vanshyeole2291/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshyeole2291/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vanshyeole2291/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshyeole2291/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshyeole2291/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vanshyeole2291/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
