@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshyeole2291/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshyeole2291/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/vanshyeole2291/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vanshyeole2291/DSA/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanshyeole2291/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshyeole2291/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vanshyeole2291/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/vanshyeole2291/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshyeole2291/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/vanshyeole2291/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
