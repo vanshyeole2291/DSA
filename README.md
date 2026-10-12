@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanshyeole2291/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/vanshyeole2291/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshyeole2291/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
