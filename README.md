@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshyeole2291/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/vanshyeole2291/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshyeole2291/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanshyeole2291/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshyeole2291/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/vanshyeole2291/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vanshyeole2291/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/vanshyeole2291/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vanshyeole2291/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
