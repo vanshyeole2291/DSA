@@ -6,10 +6,9 @@ class Solution {
         int n=s.length()/2;
         for(int i=0;i<n;i++){
             if(set.contains(s.charAt(i)))a++;
+            if(set.contains(s.charAt(i+n)))b++;
         }
-        for(int i=n;i<s.length();i++){
-            if(set.contains(s.charAt(i)))b++;
-        }
+       
         return a==b;
     }
 }
