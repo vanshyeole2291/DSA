@@ -10,9 +10,6 @@ class Solution {
         for(int i=n;i<s.length();i++){
             if(set.contains(s.charAt(i)))b++;
         }
-        if(a==b){
-            return true;
-        }
-        return false;
+        return a==b;
     }
 }
