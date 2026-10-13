@@ -5,7 +5,7 @@ class Solution {
             if(nums[i]>=f){
                 s=f;
                 f=nums[i];
-            }else if (nums[i]>s && f!=nums[i]){
+            }else if (nums[i]>s ){
                 s=nums[i];
             }
         }
