@@ -10,11 +10,8 @@ class Solution {
                 set2.add(x);
             }
         }
-        int num[] = new int[set2.size()];
-        int res=0;
-        for(int x : set2){
-            num[res++]=x;
-        }
+        int num[] = set2.stream().mapToInt(Integer::intValue).toArray();
+        
         return num;
     }
 }
