@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vanshyeole2291/DSA/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/vanshyeole2291/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/vanshyeole2291/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshyeole2291/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshyeole2291/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/vanshyeole2291/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshyeole2291/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/vanshyeole2291/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vanshyeole2291/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vanshyeole2291/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1748-sum-of-unique-elements](https://github.com/vanshyeole2291/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vanshyeole2291/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vanshyeole2291/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/vanshyeole2291/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
