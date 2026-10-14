@@ -4,15 +4,12 @@ class Solution {
         for(int n:arr){
             map.put(n,map.getOrDefault(n,0)+1);
         }
-        int f=0,s=0;
+        int ans=-1;
         for(int x : map.keySet()){
             if(x==map.get(x)){
-                f = Math.max(f,x);
+                ans = Math.max(ans,x);
             }
         }
-        if(f==0){
-            return -1;
-        } 
-        return f;
+        return ans;
     }
 }
