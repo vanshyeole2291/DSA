@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vanshyeole2291/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/vanshyeole2291/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/vanshyeole2291/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vanshyeole2291/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshyeole2291/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vanshyeole2291/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshyeole2291/DSA/tree/master/1920-build-array-from-permutation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vanshyeole2291/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshyeole2291/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vanshyeole2291/DSA/tree/master/0392-is-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vanshyeole2291/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
