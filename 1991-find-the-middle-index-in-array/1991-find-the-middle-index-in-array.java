@@ -1,7 +1,6 @@
 class Solution {
     public int findMiddleIndex(int[] nums) {
         int sum =0;
-        int ans=0;
         for(int i : nums){
             sum+=i;
         }
